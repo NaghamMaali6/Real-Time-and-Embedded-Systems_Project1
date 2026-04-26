@@ -1,0 +1,5 @@
+num_workers=4
+num_pieces=8
+delay_min=1
+delay_max=50
+rounds_to_win=2
