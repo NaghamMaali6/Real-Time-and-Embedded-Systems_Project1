@@ -1,5 +1,0 @@
-num_workers=3
-num_pieces=6
-delay_min=1
-delay_max=50
-rounds_to_win=2
